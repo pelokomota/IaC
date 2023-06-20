@@ -1,0 +1,1 @@
+Projeto Servidor Djando-Python, criado com terraform e ansible na AWS
